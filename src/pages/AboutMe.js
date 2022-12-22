@@ -11,14 +11,14 @@ const AboutMe = () => (
     <div className="bg">
       <div className="container about-wrapper">
           <div className="row">
-            <div className=" me-text col">
-              <h3 className="col about" style={{ fontSize: "260%" }}>About Me</h3>
+            <div className="col">
+              <h3 className="col" style={{ fontSize: "260%" }}>About Me</h3>
               <div className="line"></div>
               <p>test</p>
               <p>test</p>
               <p>test</p>
             </div>
-            <div className="me-image col">
+            <div className="col">
               <p>image here</p>
             </div>
           </div>
@@ -33,10 +33,10 @@ const AboutMe = () => (
           <div className="row skills-list">
             <div className="col">
               <img scr="" alt=""/>
-              <h4>What I am able to work with:</h4>
+              <h4>Technologies I can use:</h4>
               <p>
-                HTML5, CSS, JavaScript, jQuery, Node.js, ExpressJS, MySQL, MongoDB,
-                React, Responsive Web Design
+                HTML5, CSS, JavaScript, APIs, jQuery, BootStrap, Node.js, OOP, ExpressJS, MySQL, NoSQL, MongoDB,
+                Prisma Schema, React
               </p>
             </div>
             <div className="col">
